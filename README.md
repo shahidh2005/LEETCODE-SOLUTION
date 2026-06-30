@@ -25,6 +25,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Database
+<details>
+<summary>Click to expand Database problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>
